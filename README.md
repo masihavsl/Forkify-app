@@ -77,3 +77,5 @@ Shopping list feature: button on recipe to add ingredients to a list.
 Weekly meal planning feature: assign recipes to the next 7 days and show on a weekly calendar.
 
 Nutrition data on each ingredient from spoonacular API (https:// spoonacular.com/food-api) and calculate total calories of recipe.
+
+
